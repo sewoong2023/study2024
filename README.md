@@ -1,3 +1,3 @@
-#Boxing + Exciting
+#Study Site
 
-복싱사이트
+스터디사이트
