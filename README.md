@@ -10,6 +10,7 @@
 
 
 ##<span style="color:blue">**Git Bash 명령어**</span>
+----------------------------------------------------
 
     pwd : 현재 폴더 디렉토리
     ls : 현재폴더 파일리스트
@@ -18,6 +19,7 @@
     cd - : 이전 폴더로 돌아가기
 
 ##<span style="color:blue">**GitHub에 코드를 올리는 과정**</span>
+------------------------------------------------------
 
     git init : 내 프로젝트에 git 사용git add [파일명] : 원하는 파일만 선택
     git add . : 전체파일 선택
@@ -32,8 +34,8 @@
     git push -u origin main
 
 ##<span style="color:blue">**기타**</span>
-    
+-----------------------------------------------------
+
     git show-ref : 브랜치명 확인
     git branch -m master main : breach명 변경 (master -> main)
     token : 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
-    
